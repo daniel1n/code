@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://bbs.im520.net/forum-10-2.html
+[InternetShortcut]
+URL=tencent://message/?uin=476624179&Site=&Menu=yes
+Modified=104112D62346C9016C
+IconFile=http://bbs.im520.net/favicon.ico
+IconIndex=1
+IDList=
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,0
